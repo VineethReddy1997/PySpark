@@ -1,2 +1,2 @@
-# PySpark
+# Full PySpark Practiced Repo...
 Covered Topics PySpark SQL, PySpark RDD, PySpark ML, PySpark MLlib
